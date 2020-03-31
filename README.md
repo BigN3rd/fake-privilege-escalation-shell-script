@@ -1,5 +1,5 @@
 # fake-privilege-escalation-shell-script
-
+[Demo Video](https://youtu.be/4hUWezddC_0)
 **HOW TO USE:**
 1. Open terminal **`Ctrl+T`**
 2. **`mv`** or **`cp`** the directory **`PWND`** to **`~/Documents/`**
